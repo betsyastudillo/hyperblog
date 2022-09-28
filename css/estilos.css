@@ -51,10 +51,10 @@ body
     color: white;
     text-align: center;
     padding: 0.5em;
-    background: white;
     padding: 1em;
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
